@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlarmFragmentTest</string>
+    <string name="UpDownHiding">com.dophin.alarmfragmenttest.UpDownHideBehavior</string>
+    <string name="set_alarmsetting_isopen_text">是否開啟鬧鐘</string>
+    <string name="set_alarmsetting_title">鬧鐘設置</string>
+    <string name="set_alarmsetting_time_button">設置時間</string>
+    <string name="set_alarmsetting_repeat_text">設置重複時間</string>
+    <string name="set_alarmsetting_repeat_button">設置重複</string>
+</resources>
